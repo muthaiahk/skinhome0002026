@@ -1,0 +1,23 @@
+@import '../../public/assets/css/fonts_googleapis.css';
+@import '../../public/assets/css/fonts_googleapis_1.css';
+@import '../../public/assets/css/font-awesome.css';
+@import '../../public/assets/css/vendors/icofont.css';
+@import '../../public/assets/css/vendors/themify.css';
+@import '../../public/assets/css/vendors/flag-icon.css';
+@import '../../public/assets/css/vendors/feather-icon.css';
+@import '../../public/assets/css/vendors/scrollbar.css';
+@import '../../public/assets/css/vendors/animate.css';
+@import '../../public/assets/css/vendors/chartist.css';
+@import '../../public/assets/css/vendors/date-picker.css';
+@import '../../public/assets/css/vendors/datatables.css';
+@import '../../public/assets/css/vendors/bootstrap.css';
+@import '../../public/assets/css/style.css';
+@import '../../public/assets/css/color-1.css';
+@import '../../public/assets/css/responsive.css';
+
+/* Custom Active Submenu Color Override */
+#sidebar-menu .sidebar-links .sidebar-list .sidebar-submenu>li>a.active,
+.sidebar-wrapper .sidebar-main .sidebar-links .sidebar-list .sidebar-submenu>li>a.active,
+.sidebar-wrapper .sidebar-submenu>li>a.active {
+    color: #0071bc !important;
+}
